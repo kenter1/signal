@@ -11,7 +11,7 @@ Convolutional Neural Network
 Description
 ----------------------------------
 Trained on stocks candlestick plot images using a convolutional net.
-Gives a signal whether a certain candlestick plot image will move 1% upward or 1% downward
+Gives a signal whether a certain candlestick plot image will move more than 1% upward or 1% downward
 Used 2004-2008 for training then 2009 for backtest
 
 Backtesting uses simple trading algorithm
